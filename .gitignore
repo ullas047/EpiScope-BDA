@@ -1,0 +1,8 @@
+.env
+data/
+__pycache__/
+.pytest_cache/
+*.pyc
+tmp-*.log
+dashboard-map-preview.svg
+docs/report-preview-*.png
